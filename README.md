@@ -20,7 +20,7 @@ pip install opencv-python numpy
 Run the script using:
 
 ```bash
-python hand_tracking.py
+python handtracking.py
 ```
 
 ### Controls
@@ -42,6 +42,5 @@ python hand_tracking.py
 - Adding gesture recognition for interaction.
 - Improving detection using deep learning-based segmentation.
 
-## License
-This project is open-source and available under the MIT License.
+
 
